@@ -1,53 +1,156 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Chrispin Sheena</h1>
-<h3 align="center">Frontend Developer | Open Source Learner | Tech Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chrispin%20Sheena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Developer%20|%20UI%20Designer&descAlignY=55"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Always+Learning+New+Things" />
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t6eDVzYWZtNXJoY3U3eXFqZXNwaDl0dTQ4bHJwM2dwbjQ0eTR0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"/>
+
+```javascript
+const chrispin = {
+    location: "India",
+    role: "Frontend Developer",
+    technologies: [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Tailwind CSS"
+    ],
+    currentlyLearning: [
+        "TypeScript",
+        "Backend Development"
+    ],
+    funFact: "I love building modern UI/UX"
+};
+```
+
+- 🚀 Building modern and responsive web applications
+- 🌱 Currently learning advanced React ecosystem
+- ⚡ Passionate about clean UI and smooth user experience
+- 🎯 Goal: Become a world-class full stack developer
+- 💻 Love turning ideas into real products
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/ChrispinSheena">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💻 Tech Stack
 
-- 🌱 Currently learning **React / Next.js**
-- 💻 Interested in **Web Development**
-- ⚡ Love building clean UI projects
-- 📫 Reach me at: **your-email@example.com**
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase,mongodb,git,github,vscode,figma" />
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrispinSheena&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrispinSheena&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🌟 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrispinSheena&layout=compact&theme=tokyonight"/>
-</p>
+| Project | Description | Tech Stack |
+|----------|-------------|-------------|
+| Portfolio Website | Personal developer portfolio website | React + Tailwind |
+| Modern UI Clone | Responsive frontend UI clone | HTML + CSS |
+| Full Stack App | Authentication & API integration | MERN Stack |
+| Dashboard UI | Analytics dashboard with charts | React |
+| Weather App | Live weather application | JavaScript + API |
 
 ---
 
-## 🔗 Connect With Me
+# 📊 GitHub Stats
 
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrispinSheena&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrispinSheena&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+
+# 🔥 Most Used Languages
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrispinSheena&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
+
+</div>
+
+
+---
+
+# ⚡ Developer Quote
+
+<div align="center">
+
+```txt
+"Code. Create. Innovate. Repeat."
+```
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile
+
+⭐ Don't forget to star your favorite repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
