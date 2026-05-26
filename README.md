@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chrispin%20Sheena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Developer%20|%20UI%20Designer&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chrispin%20Sheena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Backend%20Learner%20|%20React%20Developer&descAlignY=55"/>
 
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Learner;React+%2F+Node.js+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,19 +22,29 @@
 
 ```javascript
 const chrispin = {
-    location: "India",
-    role: "Frontend Developer",
-    technologies: [
+    role: "Frontend Developer & Backend Learner",
+    
+    frontend: [
         "React",
         "Next.js",
         "JavaScript",
         "Tailwind CSS"
     ],
+
+    backendLearning: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs"
+    ],
+
     currentlyLearning: [
         "TypeScript",
-        "Backend Development"
+        "Backend Architecture",
+        "Authentication Systems"
     ],
-    funFact: "I love building modern UI/UX"
+
+    funFact: "I love building modern full stack web apps 🚀"
 };
 ```
 
