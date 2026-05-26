@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chrispin%20Sheena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Backend%20Learner%20|%20React%20Developer&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chrispin%20Sheena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Backend%20Developer%20|%20React%20Developer&descAlignY=55"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ```javascript
 const chrispin = {
-    role: "Frontend Developer & Backend Learner",
+    role: "Frontend Developer & Backend Developer",
     
     frontend: [
         "React",
@@ -31,7 +31,7 @@ const chrispin = {
         "Tailwind CSS"
     ],
 
-    backendLearning: [
+    backend: [
         "Node.js",
         "Express.js",
         "MongoDB",
@@ -59,7 +59,7 @@ const chrispin = {
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<a href="[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/chrispin-sheena-c-a-7a0776261/)" target="blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
